@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 -----
-## <h4 align="left">GitHub Stats</h4>
+ <h3 align="left">GitHub Stats</h3>
 
 <!-- Warna Putih -->
 <!-- Warna Putih -->
