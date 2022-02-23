@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📧 Contact me
+
+[![gmail_badge]](mailto:alfiancikoa@gmail.com) [![linkedin_badge]][linkedin] [![visitors](https://komarev.com/ghpvc/?username=mdeboute&style=flat-square)](https://github.com/alfiancikoa)
