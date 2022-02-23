@@ -21,6 +21,20 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+-----
+<a href="https://github.com/Daggy1234">
+  <img src="https://komarev.com/ghpvc/?username=Daggy1234&style=flat-square" />
+</a>
+
+
+***
+
+<a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daggy1234&show_icons=true&hide_border=true" />
+</a>
+
+---
+
 ## 📧 Contact me
 
 
