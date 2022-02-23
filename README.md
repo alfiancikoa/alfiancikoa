@@ -27,11 +27,21 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/alfiancikoa">
   <img src="https://github-readme-stats.vercel.app/api?username=alfiancikoa&show_icons=true&hide_border=true" />
 </a> -->
-<a href="https://github.com/alfiancikoa">
+<!-- <a href="https://github.com/alfiancikoa">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=alfiancikoa&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </a>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiancikoa&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiancikoa&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) -->
+<br/>
+<p align="left">
+  <a href="https://github.com/alfiancikoa">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alfiancikoa&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=alfiancikoa&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=alfiancikoa&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 
 ## 📧 Contact me
 
