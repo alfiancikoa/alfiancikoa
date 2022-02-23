@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 
 -----
 ## <h4 align="left">GitHub Stats</h4>
-
+<!-- Warna Putih -->
 <!-- <a href="https://github.com/alfiancikoa">
   <img src="https://github-readme-stats.vercel.app/api?username=alfiancikoa&show_icons=true&hide_border=true" />
 </a> -->
+<!-- Warna Hitam -->
 <!-- <a href="https://github.com/alfiancikoa">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=alfiancikoa&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </a>
@@ -41,7 +42,8 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=alfiancikoa&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
+<!--  Grafik -->
+<!-- [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=alfiancikoa&custom_title=alfiancikoa%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
 
 ## 📧 Contact me
 
