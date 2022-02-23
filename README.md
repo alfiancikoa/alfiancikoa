@@ -22,23 +22,21 @@ Here are some ideas to get you started:
 </div>
 
 -----
+## <h3 align="left">GitHub Stats</h3>
+
 <a href="https://github.com/alfiancikoa">
   <img src="https://komarev.com/ghpvc/?username=alfiancikoa&style=flat-square" />
 </a>
-
 
 ***
 
 <a href="https://github.com/alfiancikoa">
   <img src="https://github-readme-stats.vercel.app/api?username=alfiancikoa&show_icons=true&hide_border=true" />
 </a>
-
-## <h3 align="left">GitHub Stats</h3>
-
 <a href="https://github.com/alfiancikoa">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=alfiancikoa&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
-----
+-----
 <br>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiancikoa&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
