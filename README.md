@@ -21,6 +21,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 ## 📧 Contact me
+[![Gmail: Fian](https://img.shields.io/badge/-Muhammad%20Alfian-maroon?style=flat&logo=gmail)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjmjRlSpLttDDmhqnRQTQVTSQCjFvQxCSSqGDHvQjrjJvvzKMvnlWTrWwkcGdSzfJPXnV)
+[![GitHub Fian](https://img.shields.io/badge/-alfiancikoa-white?style=flat&logo=github&logoColor=black)](https://github.com/alfiancikoa)
 
-[![visitors](https://komarev.com/ghpvc/?username=mdeboute&style=flat-square)](https://github.com/alfiancikoa)
+[![visitors](https://komarev.com/ghpvc/?username=alfiancikoa&style=flat-square)](https://github.com/alfiancikoa)
 
