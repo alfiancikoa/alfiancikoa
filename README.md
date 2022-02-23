@@ -21,8 +21,10 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-----
-##<h4 align="left">GitHub Stats</h4>
+-----
+## <h4 align="left">GitHub Stats</h4>
+
+<!-- Warna Putih -->
 <!-- Warna Putih -->
 <!-- <a href="https://github.com/alfiancikoa">
   <img src="https://github-readme-stats.vercel.app/api?username=alfiancikoa&show_icons=true&hide_border=true" />
