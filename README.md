@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+  <a href="https://open.spotify.com/playlist/3B8PoYDRIc3HuVYjir12t1">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
