@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
- <a target="github.com/alfiancioa><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfiancikoa&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"> </a>
+<a target="github.com/alfiancikoa"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfiancikoa&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"</a>
 </div>
 
 <!--  Grafik -->
