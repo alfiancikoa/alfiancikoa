@@ -59,7 +59,14 @@ Here are some ideas to get you started:
 
 <!--  Grafik -->
 <!-- [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=alfiancikoa&custom_title=alfiancikoa%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
-
+<br>
+ 
+ 
+<div align="center">
+<a target="_blank"><img src="https://github.com/armuh16/armuh/blob/main/github-contribution-grid-snake.gif"</a>
+</div><br>
+ 
+ 
  <div align="center">
 <!--  ## 📧 Contact me -->
 <h4>Contact me</h4>
