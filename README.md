@@ -71,5 +71,6 @@ Here are some ideas to get you started:
 <!--  ## 📧 Contact me -->
 <h4>Contact me</h4>
   
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alfianlolo/)  [![visitors](https://komarev.com/ghpvc/?username=alfiancikoa&style=flat-square)](https://github.com/alfiancikoa)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alfianlolo/)  
+<!--   [![visitors](https://komarev.com/ghpvc/?username=alfiancikoa&style=flat-square)](https://github.com/alfiancikoa) -->
 </div>
