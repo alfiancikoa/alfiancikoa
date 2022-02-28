@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<br>
 -----
 
  <h3 align="left">GitHub Stats</h3>
