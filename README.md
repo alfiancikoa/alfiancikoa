@@ -45,13 +45,14 @@ Here are some ideas to get you started:
   </a>
 </p>
 <br>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiancikoa&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiancikoa&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)</div>
 
 <!--  Grafik -->
 <!-- [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=alfiancikoa&custom_title=alfiancikoa%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
 
 ## 📧 Contact me
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alfianlolo/) [![Gmail: Fian](https://img.shields.io/badge/-Muhammad%20Alfian-white?style=flat&logo=gmail)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjmjRlSpLttDDmhqnRQTQVTSQCjFvQxCSSqGDHvQjrjJvvzKMvnlWTrWwkcGdSzfJPXnV) [![visitors](https://komarev.com/ghpvc/?username=alfiancikoa&style=flat-square)](https://github.com/alfiancikoa)
+<div align="center">
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alfianlolo/)  [![visitors](https://komarev.com/ghpvc/?username=alfiancikoa&style=flat-square)](https://github.com/alfiancikoa)</div>
 
