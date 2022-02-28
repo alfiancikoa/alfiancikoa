@@ -46,7 +46,9 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiancikoa&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+<div align="center">
+ <a target="github.com/alfiancioa><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfiancikoa&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"> </a>
+</div>
 
 <!--  Grafik -->
 <!-- [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=alfiancikoa&custom_title=alfiancikoa%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
