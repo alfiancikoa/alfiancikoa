@@ -69,8 +69,19 @@ Here are some ideas to get you started:
  
  <div align="center">
 <!--  ## 📧 Contact me -->
-<h4>Contact me</h4>
+<h4>Find me</h4>
+
+  <div align="center">
+
+<i>Follow me around the web:</i><br>
+
+<a href="https://www.linkedin.com/in/alfianlolo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/alfiancikoa" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<!-- <a href="https://dev.to/armuh16" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a> -->
+
+</div>
+
   
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alfianlolo/)  
+<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alfianlolo/)   -->
 <!--   [![visitors](https://komarev.com/ghpvc/?username=alfiancikoa&style=flat-square)](https://github.com/alfiancikoa) -->
 </div>
