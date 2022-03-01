@@ -1,6 +1,8 @@
 <h1 align="center"> Hi! I'm Alfian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
  
-<p align="center">I am a Software Engineer Backend</p>
+<p align="center">Hi, How do you do?<br>Glad to see you<br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br>
+Ask me anything <a href="https://github.com/alfiancikoa/alfiancikoa/issues">here</a></p>
 <!--
 **alfiancikoa/alfiancikoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -61,10 +63,10 @@ Here are some ideas to get you started:
 <!-- [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=alfiancikoa&custom_title=alfiancikoa%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
 <br>
  
- 
+<!--  Ulara
 <div align="center">
 <a target="_blank"><img src="https://github.com/armuh16/armuh/blob/main/github-contribution-grid-snake.gif"</a>
-</div><br>
+</div><br> -->
  
  
  <div align="center">
